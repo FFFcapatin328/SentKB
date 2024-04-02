@@ -1,0 +1,11 @@
+python==3.9.6
+pytorch==1.12.1
+transformers==4.32.1
+torch-scatter==2.0.9
+pytorch-geometric==2.3.1
+spacy==3.5.3
+requests==2.27.1
+responses==0.13.3
+tqdm==4.65.0
+gensim==4.3.0
+networkx==3.1
